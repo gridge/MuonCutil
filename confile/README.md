@@ -33,7 +33,7 @@ where:
 - `short_descr` is a short description of the configuration
 - `version_major/minor` is just a versioning that might be useful for modifications
 
-For example: `pc-v02_05_MC-baseline-1.0` or `pc-v02_05_MC_custom-trkTightDLCuts-1.1`
+For example: `pc-v02_05_MC-baseline-1.0` or `pc-v02_05_MC-trkDLCuts-1.0` or `pc-v02_05_MC_custom-trkTightDLCuts-1.1` (the latter example implies that modification of the code in addition to config files are used)
 
 ## Folder structure
 The `simulation` and `reconstruction` folders contain the relevant XML configuration files for the respective production step.
