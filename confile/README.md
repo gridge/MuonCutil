@@ -2,7 +2,7 @@
 
 This folder contains the configuration files used for producing samples, to make it easy to reproduce previous simulations.
 
-A list of available samples can be found here:
+A list of available samples can be found here: https://confluence.infn.it/display/muoncollider/Monte+Carlo+Simulated+Samples
 
 
 and contains the following information:
